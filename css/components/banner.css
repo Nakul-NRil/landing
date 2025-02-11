@@ -1,0 +1,16 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../../images/gettyimages-1358149692-39527b1e42cc64b90835222f8aa203956538fe0e.jpg);
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
